@@ -1,0 +1,19 @@
+{
+  "name": "filter-words",
+  "version": "1.0.0",
+  "description": "filter special words",
+  "main": "filter-words.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cds258963/fitler-words.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cds258963/fitler-words/issues"
+  },
+  "homepage": "https://github.com/cds258963/fitler-words#readme"
+}
