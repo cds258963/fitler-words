@@ -9,7 +9,7 @@ fs.readFile(path, 'UTF-8', function (err, data) {
         for (var n = 0; n < textArr.length; n++) {
             addWord(textArr[n]);
         }
-    } else { 
+    } else {    
         console.log('获取词库失败');
     }
 });
