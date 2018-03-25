@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/cds258963/fitler-words.git"
   },
-  "author": "",
+  "author": "cds258963",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cds258963/fitler-words/issues"
   },
-  "homepage": "https://github.com/cds258963/fitler-words#readme"
+  "homepage": "https://github.com/cds258963/fitler-words#readme",
+  "keywords": [
+    "filter"
+  ]
 }
